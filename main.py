@@ -1,3 +1,11 @@
+#######################################
+#                                     #
+#  Script created by Mark L. Jensen   #
+#  marklustyjensen@gmail.com          #
+#  www.marklustyjensen.com            #
+#                                     #
+#######################################
+
 from email.message import EmailMessage
 import ssl
 import smtplib
